@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Euler Sili!✌🏿</h1>
 
-<!--
-**eulersili/eulersili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🌱 I’m currently learning Java, HTML and CSS.</li>
+  <li>💬 Ask me about Java, Mobile Development.</li>
+  <li>📫 How to reach me: <a href="mailto:silieuler@gmail.com">email</a></li>
+  <li>⚡ Fun fact: Java is the best!</li>
+<ul>
+<br>
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eulersili&show=icons=true&theme=white&include_all_commits=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulersili"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>
