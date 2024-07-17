@@ -1,15 +1,13 @@
-<h1>Hi, I'm Euler Sili!✌🏿</h1>
-<ul>
-  <li>🌱 I’m currently learning Java, HTML and CSS.</li>
-  <li>💬 Ask me about Java, Mobile Development.</li>
-  <li>📫 How to reach me: <a href="mailto:silieuler@gmail.com">email</a></li>
-  <li>⚡ Fun fact: Java is the best!</li>
-<ul>
-<br>
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eulersili&show_icons=true&theme=white&include_all_commits=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulersili&langs_count=8">
-</div>
+# Hi, I'm Euler Sili!✌🏿
+
+- 🌱 I’m currently learning Java, Spring Boot, HTML and CSS.
+- 💬 Ask me about Java, Mobile Development.
+- 📫 How to reach me: silieuler@gmail.com
+- ⚡ Fun fact: Java is the best!
+
+![Euler Sili's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eulersili&show_icons=true&theme=white&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eulersili&langs_count=8)
 
 <div>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
