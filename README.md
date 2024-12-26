@@ -15,5 +15,4 @@
   <img align="center" alt="SpringBoot" height="60" width="60" src="/images/springboot.png"/>
   <img align="center" alt="MySQL" height="50" width="50" src="/images/mysql.png"/>
   <img align="center" alt="REST API" height="50" width="50" src="/images/restapi.png" />
-  
 </div>
