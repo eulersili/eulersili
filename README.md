@@ -1,8 +1,8 @@
 <h1>Hi, I'm Euler Sili!✌🏿</h1>
 <ul>
-  <li>🌱 I’m currently learning Java, Spring Boot, HTML and CSS.</li>
+  <li>🌱 I’m currently learning Java, Spring Boot, MySQL, REST APIs and Open Source.</li>
   <li>💬 Ask me about Java, Backend and Mobile Development.</li>
-  <li>📫 How to reach me: <a href="mailto:silieuler@gmail.com">email</a></li>
+  <li>📫 How to reach me: <a href="mailto:eulersili.dev@gmail.com">email</a></li>
   <li>⚡ Fun fact: Java is the best!</li>
 <ul>
 <br>
